@@ -1,20 +1,49 @@
 ---
 title: "About"
-description: "Codeapth"
-dateString: Jan 2023 - Ongoing
+description: ""
+ShowWordCount: true
+ShowReadingTime: true
 draft: false
 tags: []
 showToc: false
 weight: 301
 --- 
 
-# ✏️ Intro
+# 🚀Innovator. Passionate Learner.✨ 
 
+I'm a Software Engineer driven by a passion for developing forward-thinking technology that positively impacts people's lives. Constantly pushing my boundaries, I have a strong desire for learning and growth.
 
-## Skills
-## Languages
-### Tools
-## Frameworks
+Before diving into the world of code, I had some fun adventures traveling and working in education, sales, and hospitality, which give me a unique perspective and bring a well-rounded skill set to the table.
 
+Effective communication, strong management abilities, and leadership qualities set me apart, while fostering innovation and delivering exceptional user experiences is where I thrive.
+## 💪 Skills
+    
+### Languages☕ 
+Java | Kotlin | JavaScript | Python | HTML | CSS | SQL
 
-## Interest
+###  Tools 🛠️
+- VS Studio | Android Studio
+- Git | GitHub
+- AWS 
+- Linux Containers (LXC)
+- Slack | Trello
+
+### Databases 💾
+MariaDB | MySQL | Supabase | Microsoft SQL Server
+
+### Web Developmnet  💻
+React | JavaScript | HTML | CSS
+
+### Machine Learning / Big Data 🧠🤖
+Pandas | Seaborn | NumPy | Scikit-Learn | Jupyter Notebooks
+
+### Other
+ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | Oracle VM Virtual Box
+
+## 📜 Certificates 
+- [Intro to Android Development](https://drive.google.com/file/d/1uIXAew1_6aOY1DoE9EEMxY-jOtz7XF_-/view?usp=sharing) | [CodePath](https://www.codepath.org/) | Spring 2023
+- [CodePath Intermediate Interview Prep](https://drive.google.com/file/d/1gsSq9byg76qE1hhM-HLacyXvY4KUTZK3/view?usp=sharing) | [CodePath](https://www.codepath.org/) | Fall 2022
+- [CIS Professional in Linux](https://catalog.mtsac.edu/programs/programsaz/computer-software/cis-professional-certificate-linux/#:~:text=The%20CIS%20Certificate%20in%20Linux,and%20networks%20used%20by%20industry.) | Mt. SAC | 2022
+- [Big Data Analytics](https://catalog.mtsac.edu/programs/programsaz/computer-database-management-systems/big-data-analytics/) | Mt. SAC | 2022
+
+## 💖Interest
