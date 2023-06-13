@@ -42,6 +42,12 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
 
+  #icon-gl
+  label:
+    text: "Gabriela Liera"
+    icon: /home/me2.jpg
+    iconHeight: 35
+
   # for enchanced SEO
   env: production
 
@@ -50,16 +56,16 @@ params:
     enabled: true
     title: "Gabriela Liera"
     subtitle: "Hi 👋, I'm Gaby, a **Software Engineer** passoniate about Android and Mobile Development. As a self-motivated individual starting my career in software development, I bring a unique blend of experience in sales, hospitality, and education, along with a Bachelor's degree in Anthropology."
-    imageUrl: "home/me2.jpg"
+    imageUrl: "home/me3.jpg"
     imageWidth: 220
     imageHeight: 220
     buttons:
        - name: Projects
-         url: "https://github.com/gabrielaliera/gabrielaliera.github.io/projects"
+         url: "/projects"
        - name: Blog
-         url: "https://github.com/gabrielaliera/gabrielaliera.github.io/blog"
+         url: "/blog"
        - name: Experience
-         url: "https://github.com/gabrielaliera/gabrielaliera.github.io/experience"
+         url: "/experience"
 
   # List View
   hideDescriptionInList: false
