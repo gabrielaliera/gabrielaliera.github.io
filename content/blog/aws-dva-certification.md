@@ -1,8 +1,10 @@
 ---
 title: "I passed the AWS DVA Certification Exam"
 description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
-dateString: Mar 2023
-draft: false
+dateString: "Mar 2023 "
+ShowWordCount: true
+ShowReadingTime: true
+draft: true
 tags: ["AWS", "DVA", "Certification", "Developer", "Developer Associate"]
 weight: 101
 cover:
