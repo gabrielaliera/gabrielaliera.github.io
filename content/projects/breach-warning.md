@@ -1,5 +1,5 @@
 ---
-title: "Kindle to Notion"
+title: "BrenchWARNING"
 description: "A way to seamlessly transfer your Kindle highlights to Notion Database!"
 dateString: Dec 2021
 draft: false

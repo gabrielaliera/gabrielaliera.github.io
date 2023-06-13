@@ -1,5 +1,5 @@
 ---
-title: "Automated Image Captioning (Bachelor Thesis)"
+title: "Pokemon"
 description: "Can computers summarize the contents of an image?"
 dateString: Jan 2021 - May 2021
 draft: false

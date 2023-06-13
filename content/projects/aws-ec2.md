@@ -1,5 +1,5 @@
 ---
-title: "AWS-EC2- Building Infrastructure for Basic Website|"
+title: "AWS-EC2- Building Infrastructure for Basic Website"
 description: "Can computers really understand the human face?"
 dateString: May 2020
 draft: false
