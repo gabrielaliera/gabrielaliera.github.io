@@ -8,7 +8,7 @@ weight: 201
 cover:
     image: "projects/stayStocked/Capture.PNG"
 ---
-### 🔗 [GitHub](https://github.com/arkalim/kindle-to-notion)
+### 🔗 [GitHub](https://github.com/Android101-Codepath-Group30/StayStocked2)
 
 ## Intro
 In my video about [**How I cleared the AWS SAA Certification Exam**](https://arkalim.org/blog/aws-saa-certification/), I shared my preparation strategy as well as tips to ace the exam. I also gave a glimpse of my revision notes that I prepared while taking the course and practice exams on Udemy. After that video was out, I got so many comments and DMs, requesting me to share my notes, but the problem was that I took these notes using a note-taking app called Obsidian which stores them in markdown format locally on my Mac. Once I'm done editing my notes, I push them to a GitHub repository to make sure I don't lose them if my laptop breaks.
