@@ -3,7 +3,7 @@ title: "International Student Program Coordinator"
 description: "University of Redlands"
 dateString: Aug 2013 - Jun 2016
 draft: false
-tags: []
+tags: ["Program Management","Student Advising","International"]
 showToc: false
 weight: 306
 --- 
