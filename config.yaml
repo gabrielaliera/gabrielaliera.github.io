@@ -45,7 +45,7 @@ params:
   #icon-gl
   label:
     text: "Gabriela Liera"
-    icon: /home/me2.jpg
+    icon: /home/me3.jpg
     iconHeight: 35
 
   # for enchanced SEO
