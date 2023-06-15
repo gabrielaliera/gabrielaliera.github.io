@@ -3,7 +3,7 @@ title: "Independent Travel"
 description: "Australia, Philippines, Vietnam, Malaysia, Cambodia, Singapore, Indonesia, Thailand, China"
 dateString: August 2016 - Feb 2020
 draft: false
-tags: []
+tags: ["Travel", "Education", "Hospitality","Sales"]
 showToc: false
 weight: 305
 --- 

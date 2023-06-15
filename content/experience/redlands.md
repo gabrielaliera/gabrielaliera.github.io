@@ -6,9 +6,11 @@ draft: false
 tags: ["Program Management","Student Advising","International"]
 showToc: false
 weight: 306
+cover:
+   # image: "experience/redlands/cover.svg"
 --- 
 
-## Description
+## Duties & Accomplishments
 - Supervised 12 peer-mentors & managed orientation for over 300 incoming students to ensure safe transition to US
 - Increased involvement by organizing cultural events & support services leading to increase satisfaction by 14%
 - Awarded NAFSA Region XII Grant- Sept 2015: Supported development of peer mentor program- Global Ambassador Program
