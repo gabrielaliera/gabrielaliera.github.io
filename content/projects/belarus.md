@@ -2,7 +2,7 @@
 title: "Belarus Used Car Markets"
 description: "Smart Goggles for Gaze Analysis"
 dateString: Sep 2019 - Oct 2019
-draft: false
+draft: true
 tags: ["DL", "AI", "Python", "PyTorch", "Computer Vision"]
 showToc: false
 weight: 206

@@ -4,7 +4,7 @@ description: "Building Infrastructure for Basic Website"
 dateString: "May 2020 "
 ShowWordCount: true
 ShowReadingTime: true
-draft: false
+draft: true
 tags: ["AWS", "EC2", "Docker", "Flask", "Python"]
 showToc: false
 weight: 205
