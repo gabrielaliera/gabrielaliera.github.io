@@ -59,7 +59,9 @@ params:
   profileMode:
     enabled: true
     title: "Gabriela Liera"
-    subtitle: "Hi 👋, I'm Gaby, a **Software Engineer** passoniate about Android and Mobile Development. As a self-motivated individual starting my career in software development, I bring a unique blend of experience in sales, hospitality, and education, along with a Bachelor's degree in Anthropology."
+    subtitle: "Hi 👋, I'm Gaby, a **Software Engineer**. <br> What sets me apart is my diverse background, combining technical expertise with my previous professional experience in customer service and education.
+     While I am mostly *self-taught programmer*, I also hold a **B.A - Anthropology**, <br> adding a social-cultural lens to all my projects. 
+     <br><br>I'm excited to leverage this diverse background to create innovative and meaningful solutions in the world of software development. <br> **Let's connect and build something amazing together!**"
     imageUrl: "home/gaby2.jpg"
     imageWidth: 220
     imageHeight: 220
