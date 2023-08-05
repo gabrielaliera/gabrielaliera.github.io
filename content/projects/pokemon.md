@@ -15,7 +15,8 @@ cover:
 
 ## Project Summary
 ***
-
+## Sorry this section under construction 😬🚧
+![Under Constructions](/blog/temp.jpg)
 
 ## Features
 ***
