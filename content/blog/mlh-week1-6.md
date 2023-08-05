@@ -42,7 +42,7 @@ Then I decided to level up my pull request game when writing tests for a fellow 
 ![Script 1](/blog/mlh-week1-6/script2.PNG)
 **Redeploy script using custom create service**
 ![Script 2](/blog/mlh-week1-6/script1.PNG)
-**Redeploy scripting using docker** 
+**Redeploy script using docker** 
 ![Script 3](/blog/mlh-week1-6/script3.PNG)
 
 🧪 An essential milestone was learning about *unit testing, integration testing, and system testing*. I implementing **Test-Driven Development (TDD) principles** in order to create comprehensive tests to ensure the database connection and API endpoints were functioning as expected, prioritizing robustness and code quality.
