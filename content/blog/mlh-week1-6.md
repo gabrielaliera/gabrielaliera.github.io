@@ -1,11 +1,11 @@
 ---
-title: "Major League Hacking - Production Engineer Internship"
+title: "Production Engineer Internship"
 description: "Week 1 to 6 Update"
 dateString: "July 2023 "
 ShowWordCount: true
 ShowReadingTime: true
 draft: false
-tags: ["Major League Hacking", "HTML", "CSS", "Docker", "Flask", "Python", "Agile", "Testing", "Bash"]
+tags: ["Major League Hacking", "HTML", "CSS", "Docker", "Flask", "Python", "Agile", "Testing", "Bash", "Digital Ocean", "NGINX", "Git","Meta","Bootstrap","Linux","Docker Compose","YAML","Jinja"]
 weight: 101
 cover:
     image: "/blog/mlh-week1-6/cover.png"
@@ -15,20 +15,24 @@ cover:
 ### 🎬 [Live Demo](https://gabrielaliera.duckdns.org/)
 
 # Introduction
-This summer, I had the incredible opportunity to work as a **Production Engineer Intern** for [Major League Hacking Fellowship](https://fellowship.mlh.io/) in their Site Reliability Track, sponsored by [Meta](https://opensource.fb.com/partnerships/major-league-hacking/) Throughout this experience, I, along with 11 other individuals, embarked on the journey of learning DevOps tools while building a portfolio website with a CI/CD pipeline. 
+This summer, I had the incredible opportunity to work as a **Production Engineer Intern** for [Major League Hacking Fellowship](https://fellowship.mlh.io/) in their Site Reliability Track, sponsored by [Meta](https://opensource.fb.com/partnerships/major-league-hacking/). Throughout this experience, I, along with 11 other individuals, embarked on the journey of learning DevOps tools while building a portfolio website with a CI/CD pipeline. 
 
 # Highlights
 
-🚀 During these weeks, we kick-started the project by creating a basic **Flask** website using **Jinja** templates. I dived deep into CSS and learned **Bootstrap** to enhance the website's responsiveness and visual appeal. This was a personal goal of mine because my CSS skills could use an upgrade! 
+🚀 We kick-started the project by creating a basic **Flask** website using **Jinja** templates. I dived deep into CSS and learned **Bootstrap** to enhance the website's responsiveness and visual appeal. This was a personal goal of mine because my CSS skills could use an upgrade! 
 
 **Week 1 Portfolio**
 ![Week1 Portfolio](/blog/mlh-week1-6/start-portfolio.PNG)
 **Week 6 Portfolio**
 ![Week6 Portfolio](/blog/mlh-week1-6/week6-portfolio.PNG)
 
-Embracing the **Agile Scrum** process, I actively participated in *stand-up notes* and *retrospectives*, promoting effective communication and continuous improvement within the team.
+Embracing the **Agile Scrum** process, each week I actively participated in *stand-up notes* and *retrospectives*, promoting effective communication and continuous improvement within the team.
 
 🔧 **GitHub** collaboration was taken to new heights as I played a pivotal role in opening issues, creating feature branches, and initiating pull requests. These efforts contributed to smoother and more organized development cycles.
+
+Here is one of my first pull request ever:👶🍼 [Baby's First Pull Request](https://github.com/gabrielaliera/MLH-portfolio/pull/17)
+
+Then I decided to level up my pull request game when writing tests for a fellow intern💪🔥 [Pull Request Level-Up](https://github.com/OmarMacMa/portfolio/pull/9)
 
 🌐 I successfully deployed the website on a virtual private server using a **Digital Ocean** droplet, honing my **Linux** skills by working with **Bash** commands and crafting various *scripts* with loops and conditional statements, and commands like curl, awk, and jp. I even automated the process of running my portfolio in the background before moving it into a container.
 
@@ -52,7 +56,9 @@ Embracing the **Agile Scrum** process, I actively participated in *stand-up note
 # What's Next
 I'm incredibly grateful for the Major League Hacking Fellowship, which not only offered hands-on technical experience but also enabled collaboration with exceptional individuals in the tech industry. 
 
-During the next six weeks, I will be learning about continuous integeration, monitoring, networking, and troubleshooting! 
+During the next six weeks of this internship, I will be learning about continuous integeration, monitoring, networking, and troubleshooting! 
 
 I'm excited to apply everything I've learned and continue contributing to the ever-evolving world of technology! 
 
+### 🔗 [GitHub](https://github.com/gabrielaliera/ProductionEngineer-portfolio) 
+### 🎬 [Live Demo](https://gabrielaliera.duckdns.org/)
