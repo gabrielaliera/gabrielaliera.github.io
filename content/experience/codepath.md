@@ -1,5 +1,5 @@
 ---
-title: "Tech Fellow"
+title: "Tech Fellow - Web Development & Technical Interview Prep"
 description: "CodePath"
 dateString: Jan 2023 - Ongoing
 draft: false

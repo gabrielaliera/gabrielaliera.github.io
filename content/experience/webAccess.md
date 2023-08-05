@@ -1,5 +1,5 @@
 ---
-title: "Web Accessibility Assistant"
+title: "Web Accessibility Technical Support II"
 description: "Mt. San Antonio College"
 dateString: Oct 2021 - Ongoing
 draft: false
