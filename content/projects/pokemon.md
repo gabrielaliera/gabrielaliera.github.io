@@ -15,8 +15,9 @@ cover:
 
 ## Project Summary
 ***
-## Sorry this section under construction 😬🚧
-![Under Constructions](/blog/temp.jpg)
+The "Pokemon Card Dashboard" is a web app that provides a platform for displaying valuable information about the latest Pokemon deck series. It is built with **React** and uses the PokemonTCG API to fetch card and deck information.
+
+![Walkthrough of Project](https://github.com/gabrielaliera/data-dashboard/blob/master/walkthrough.gif)
 
 ## Features
 ***

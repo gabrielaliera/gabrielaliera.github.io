@@ -11,7 +11,7 @@ cover:
 --- 
 
 ## Duties & Accomplishments
-- Supervised & train 12 peer-mentors & managed orientation for over 300 incoming students to ensure safe transition to US
+- Managed orientation & supervised 12 peer-mentors for over 300 incoming students to ensure safe transition to US
 - Increased involvement by organizing cultural events & support services leading to increase satisfaction by 14%
 - Awarded NAFSA Region XII Grant- Sept 2015: Supported development of peer mentor program- Global Ambassador Program
 - Awarded NAFSA 2015 Annual Conference: 1st Place Case Study Challenge

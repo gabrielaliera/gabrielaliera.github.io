@@ -11,9 +11,10 @@ cover:
 --- 
 
 ### Tech Fellow - Technical Interview Prep
-May 2023 - Ongoing
-- Facilitate 36 students through problem solving question using **data structures** like linked list, stack/queues, hash maps, graphgs, greedy algorithms, dynamic programming and backtracking
-- Utilize 8 breakout rooms to encourage active participation & engagement
+May 2023 - Ongoing (Sept 2023)
+- Facilitate 36 students through problem solving question using **data structures** like linked lists, stack/queues, hashmaps, graphs, greedy algorithms, dynamic programming and backtracking
+- Utilize 8 to 10 breakout rooms to encourage active participation & engagement
+- Provide clear explanations of technical concepts and engage in discussions about potential solutions with students
 
 
 ### Tech Fellow - Web Development in React 

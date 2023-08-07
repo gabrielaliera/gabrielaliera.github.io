@@ -19,29 +19,29 @@ Before diving into the world of code, I had some fun adventures traveling and wo
 ## 💪 Skills
 ***
 ### Languages☕ 
-Java | Kotlin | JavaScript | Python | HTML | CSS | SQL
+Java | Kotlin | JavaScript | Python | Bash | HTML | CSS | SQL
 
 ###  Tools 🛠️
 VS Studio | Android Studio  
 Git | GitHub  
-AWS   
-Linux Containers (LXC)  
+AWS    
+Docker | Linux Containers (LXC)  
 Slack | Trello
 
 ### Databases 💾
-MariaDB | MySQL | Supabase | Microsoft SQL Server
+MariaDB | MySQL | Supabase 
 
 ### Mobile Development
-Kotlin | Android Studio
+Kotlin | XML | Android Studio
 
 ### Web Development  💻
-React | JavaScript | HTML | CSS
+React | Flask | BootStrap | Jinga | JavaScript | HTML | CSS 
 
 ### Machine Learning / Big Data 🧠🤖
 Python | Pandas | Seaborn | NumPy | Scikit-Learn | Jupyter Notebooks
 
 ### Other
-ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | Oracle VM Virtual Box
+ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | SiteImprove | Oracle VM Virtual Box
 
 ## 📜 Certificates 
 ***

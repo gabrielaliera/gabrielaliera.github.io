@@ -2,7 +2,7 @@
 title: "Linux Workstation & Containerized Applications"
 description: ""
 dateString: May 2021
-draft: false
+draft: true
 tags: ["Linux", "Apache","VM Virtual Box", "Fedora", "Documentation"]
 showToc: false
 weight: 204

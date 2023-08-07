@@ -11,6 +11,6 @@ cover:
 --- 
 
 ## Duties & Accomplishments
-- Improved web accessibility by reducing inaccessible PDFs by 72% by reformatting HTML for over 3000 documents using **Adobe Acrobat Pro DC** and **SiteImprove**
+- Improving web accessibility by identifying & troubleshooting errors for 5,800 documents by reformatting HTML using **Adobe Acrobat Pro DC** and **SiteImprove**
 - Expanded accessibility knowledge & access for 94 employees via outreach increasing help requests by 88%
 - Collaborating with college-wide accreditation team to make evidence accessible, reducing project costs by 23%
