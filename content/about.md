@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "About Me"
 description: ""
-ShowWordCount: true
-ShowReadingTime: true
 ShowToc: true
 draft: false
 tags: []
@@ -41,7 +39,15 @@ React | Flask | BootStrap | Jinga | JavaScript | HTML | CSS
 Python | Pandas | Seaborn | NumPy | Scikit-Learn | Jupyter Notebooks
 
 ### Other
-ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | SiteImprove | Oracle VM Virtual Box
+ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | SiteImprove <br> Oracle VM Virtual Box
+
+## 🎓 Education
+***
+**A.S. Computer Programming** | Mt. San Antonio College | Dec 2022 | Walnut, CA 
+GPA: 4.0 
+
+**B.A. Anthoropology** | University of California San Diego | La Jolla, CA | June 2013
+GPA: 3.5
 
 ## 📜 Certificates 
 ***
@@ -49,11 +55,11 @@ ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | SiteImprove | Oracle VM Vir
 
 [CodePath Intermediate Interview Prep](https://drive.google.com/file/d/1gsSq9byg76qE1hhM-HLacyXvY4KUTZK3/view?usp=sharing) | [CodePath](https://www.codepath.org/) | Fall 2022  
 
-[CIS Professional in Linux](https://catalog.mtsac.edu/programs/programsaz/computer-software/cis-professional-certificate-linux/#:~:text=The%20CIS%20Certificate%20in%20Linux,and%20networks%20used%20by%20industry.) | Mt. SAC | 2022  
+[CIS Professional in Linux](https://catalog.mtsac.edu/programs/programsaz/computer-software/cis-professional-certificate-linux/#:~:text=The%20CIS%20Certificate%20in%20Linux,and%20networks%20used%20by%20industry.) | Mt. San Antonio College | 2022  
 
-[Big Data Analytics](https://catalog.mtsac.edu/programs/programsaz/computer-database-management-systems/big-data-analytics/) | Mt. SAC | 2022
+[Big Data Analytics](https://catalog.mtsac.edu/programs/programsaz/computer-database-management-systems/big-data-analytics/) | Mt. San Antonio College | 2022
 
-## 💖Interests 
+## 💖 Interests 
 ***
 
 🧐 Listening to Crime Junkies

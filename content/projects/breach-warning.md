@@ -1,11 +1,9 @@
 ---
 title: "BrenchWARNING"
-description: "Breach WARNing shows up-to-date information on data breaches and job layoffs that may affect the target user."
+description: "Breach WARNing shows up-to-date information on data breaches and job layoffs."
 dateString: "May 2023 "
-ShowWordCount: true
-ShowReadingTime: true
 draft: false
-tags: ["React", "JavaScript", "Python", "Pandas","Web Development", "Frontend Development", "HTML", "CSS"]
+tags: ["React", "React Router","Vite", "JavaScript", "Python", "Pandas","Web Development", "Frontend Development", "HTML", "CSS"]
 showToc: false
 weight: 202
 cover:
@@ -44,7 +42,7 @@ Data scraping and wrangling was performed using **Python**, where we converted t
 
 ## Lessons Learned
 ***
-Built during the **LaHacks hackathon**, this project involved a team of four individuals. Our primary challenges revolved around merging code seamlessly and avoiding merge conflicts. Combining multiple codebases and aligning our approaches required constant communication and coordination. Through teamwork, we successfully navigated the intricacies of merging code, fostering a cohesive and robust foundation for our project. Additionally, we tackled CSS design issues to ensure consistent component styling. Through effective collaboration, we overcame these obstacles and created BreachWARNING.
+Built during the **LaHacks Hackathon**, this project involved a team of four individuals. Our primary challenges revolved around merging code seamlessly and avoiding merge conflicts. Combining multiple codebases and aligning our approaches required constant communication and coordination. Through teamwork, we successfully navigated the intricacies of merging code, fostering a cohesive and robust foundation for our project. Additionally, we tackled CSS design issues to ensure consistent component styling. Through effective collaboration, we overcame these obstacles and created BreachWARNING.
 
 ### 🔗 [GitHub](https://github.com/JakeGerber/LA_Hacks_2023)
 ### 🔗 [View Website](https://breachwarning.netlify.app/)

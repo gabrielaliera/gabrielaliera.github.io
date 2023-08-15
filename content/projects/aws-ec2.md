@@ -1,11 +1,9 @@
 ---
 title: "AWS-EC2"
-description: "Building Infrastructure for Basic Website"
+description: "Building Infrastructure for basic website"
 dateString: "May 2020 "
-ShowWordCount: true
-ShowReadingTime: true
 draft: false
-tags: ["AWS", "EC2", "Docker", "Flask", "Python"]
+tags: ["AWS", "EC2", "Docker", "Flask", "Python", "CI/CD"]
 showToc: false
 weight: 205
 cover:

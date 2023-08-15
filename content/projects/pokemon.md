@@ -1,9 +1,7 @@
 ---
 title: "Pokemon Card Dashboard"
 description: "Users can view card information about the Crown Zenith deck series."
-dateString: "April 2023 - June 2023 "
-ShowWordCount: true
-ShowReadingTime: true
+dateString: "April 2023"
 draft: false
 tags: ["JavaScript", "React", "API", "React Router", "Web Development", "Frontend Development", "HTML", "CSS"]
 showToc: false

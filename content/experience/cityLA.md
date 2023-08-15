@@ -11,8 +11,8 @@ cover:
 --- 
 
 ## Duties & Accomplishments
-- Analyzed & optimize ServiceNow ticketing help-desk operations by utilizing SQL queries for data analysis reports
-- Transformed 63 queries into 35 data visualizations resulting in dashboard to monitor daily operations
+- Analyzed data, derived actionable recommendations, & communicated findings to both technical & non-technical audiences about ServiceNow help desk operations 
+- Transformed 63 SQL queries into 35 data visualizations resulting in dashboard to monitor daily operations
 
 
 ### 🔗 [Dashboard Overview](https://docs.google.com/presentation/d/1GhLV-RkG4c68s9_IaKOZDL6TUFU4oIw0/edit?usp=sharing&ouid=105735986232463488603&rtpof=true&sd=true)
