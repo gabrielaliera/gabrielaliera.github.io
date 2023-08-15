@@ -1,12 +1,12 @@
 ---
 title: "Production Engineer Internship"
 description: "Week 1 to 6 Update"
-dateString: "July 2023 - "
+dateString: "July 31, 2023 - "
 ShowWordCount: true
 ShowReadingTime: true
 draft: false
 tags: ["Major League Hacking", "HTML", "CSS", "Docker", "Flask", "Python", "Agile", "Testing", "Bash", "Digital Ocean", "NGINX", "Git","Meta","Bootstrap","Linux","Docker Compose","YAML","Jinja"]
-weight: 101
+weight: 102
 cover:
     image: "/blog/mlh-week1-6/cover.png"
 ---
