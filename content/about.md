@@ -43,7 +43,7 @@ ServiceNow |  Adobe Acrobat DC Pro (Accessibility) | SiteImprove <br> Oracle VM 
 
 ## 🎓 Education
 ***
-**A.S. Computer Programming** | Mt. San Antonio College | Dec 2022 | Walnut, CA 
+**A.S. Computer Programming** | Mt. San Antonio College | Walnut, CA | Dec 2022 
 GPA: 4.0 
 
 **B.A. Anthoropology** | University of California San Diego | La Jolla, CA | June 2013
