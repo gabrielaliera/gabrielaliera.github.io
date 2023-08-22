@@ -1,13 +1,17 @@
 ---
 title: "Pokemon Card Dashboard"
-description: "Users can view card information about the Crown Zenith deck series."
-dateString: "April 2023"
+#description: "Users can view card information about the Crown Zenith deck series."
+dateString: "April 2023 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["JavaScript", "React", "API", "React Router", "Web Development", "Frontend Development", "HTML", "CSS"]
 showToc: false
 weight: 203
 cover:
-    #image: "projects/automated-image-captioning/cover.jpg"
+    image: "projects/pokemon/cover.png"
+    alt: "Web - Users can view card information about the Crown Zenith deck series."
 --- 
 ### 🔗 [GitHub](https://github.com/gabrielaliera/data-dashboard)
 

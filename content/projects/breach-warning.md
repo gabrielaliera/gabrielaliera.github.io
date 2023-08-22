@@ -1,13 +1,17 @@
 ---
 title: "BrenchWARNING"
-description: "Breach WARNing shows up-to-date information on data breaches and job layoffs."
-dateString: "May 2023 "
+#description: "Breach WARNing shows up-to-date information on data breaches and job layoffs."
+dateString: "May 2023 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["React", "React Router","Vite", "JavaScript", "Python", "Pandas","Web Development", "Frontend Development", "HTML", "CSS"]
 showToc: false
 weight: 202
 cover:
-    #image: "projects/kindle-to-notion/cover.jpg"
+    image: "projects/breach-warning/cover.png"
+    alt: "Web - Breach WARNing shows up-to-date information on data breaches and job layoffs "
 --- 
 ### 🔗 [GitHub](https://github.com/JakeGerber/LA_Hacks_2023)
 

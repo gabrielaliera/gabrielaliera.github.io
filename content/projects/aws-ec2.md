@@ -1,13 +1,17 @@
 ---
 title: "AWS-EC2"
-description: "Building Infrastructure for basic website"
-dateString: "May 2020 "
+#description: "Building Infrastructure for basic website"
+dateString: "May 2020 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["AWS", "EC2", "Docker", "Flask", "Python", "CI/CD"]
 showToc: false
 weight: 205
 cover:
-   # image: "projects/face-landmarks-detection/cover.jpg"
+   image: "projects/aws-ec2/cover.png"
+   alt: "Systems - Building Infrastructure for basic website"
 --- 
 ### 🔗 [GitHub](https://github.com/gabrielaliera/AWS-ECS-EC2-Flask)
 

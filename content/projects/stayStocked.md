@@ -1,12 +1,16 @@
 ---
 title: "StayStocked"
-description: " User-friendly mobile application designed to help individuals keep track of their groceries."
-dateString: April 2023
+#description: " User-friendly mobile application designed to help individuals keep track of their groceries."
+dateString: "April 2023 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["Android", "Kotlin", "XML","Okhttp"]
 weight: 201
 cover:
-   # image: "projects/stayStocked/Capture.PNG"
+    image: "projects/stayStocked/cover.png"
+    alt: "Mobile - User-friendly mobile application designed to help individuals keep track of their groceries "
 ---
 ### 🔗 [GitHub](https://github.com/Android101-Codepath-Group30/StayStocked2)
 

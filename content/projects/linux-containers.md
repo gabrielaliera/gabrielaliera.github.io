@@ -1,13 +1,17 @@
 ---
 title: "Linux Workstation & Containerized Applications"
-description: "Virtualizes Fedora server with Apache, Samba, & File Transfer Protocol containerized using Linux Containers (LXC)"
-dateString: May 2021
+#description: "Virtualizes Fedora server with Apache, Samba, & File Transfer Protocol containerized using Linux Containers (LXC)"
+dateString: "May 2021 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["Linux","Windows","Containers","Samba", "Apache","VM Virtual Box", "Fedora", "Documentation"]
 showToc: false
 weight: 204
 cover:
-    #image: "projects/todo-list-app/cover.jpg"
+    image: "projects/linux-containers/cover.png"
+    alt: "Systems - Virtualizes Fedora server with Apache, Samba, & File Transfer Protocol containerized using Linux Containers (LXC)"
 --- 
 ### 🔗 [GitHub](https://github.com/gabrielaliera/Linux-Containerized_Applications)
 ### 🔗 [Project Presentation](https://github.com/gabrielaliera/Linux-Containerized_Applications/blob/main/Presentation_CISN-34.pdf)

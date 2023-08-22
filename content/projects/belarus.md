@@ -1,13 +1,17 @@
 ---
 title: "Belarus Used Car Markets"
-description: "Data analysis applying data cleaning, visualization, descriptive statistics & quantitative exploratory analysis"
-dateString: Oct 2020
+#description: "Data analysis applying data cleaning, visualization, descriptive statistics & quantitative exploratory analysis"
+dateString: "October 2020 ∙ "
+ShowWordCount: true
+ShowReadingTime: true
+author: Gabriela Liera
 draft: false
 tags: ["Python", "Jupyter Notebooks","Pandas", "NumPy", "Seaborn"]
 showToc: false
 weight: 206
 cover:
-    #image: ""
+    image: "projects/belarus/cover.png"
+    alt: "Data - Data analysis applying data cleaning, visualization, descriptive statistics & quantitative exploratory analysis"
 --- 
 ### 🔗 [GitHub](https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project)
 
