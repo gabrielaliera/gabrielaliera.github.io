@@ -33,7 +33,7 @@ MariaDB | MySQL | Supabase
 Kotlin | XML | Android Studio
 
 ### Web Development  💻
-React | Flask | BootStrap | Jinga | JavaScript | HTML | CSS 
+React | Flask | BootStrap | Jinja | JavaScript | HTML | CSS 
 
 ### Machine Learning / Big Data 🧠🤖
 Python | Pandas | Seaborn | NumPy | Scikit-Learn | Jupyter Notebooks
