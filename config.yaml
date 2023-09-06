@@ -62,7 +62,7 @@ params:
     subtitle: "Hi 👋, I'm Gaby, a **Software Engineer**. <br> What sets me apart is my diverse background, combining technical expertise with my previous professional experience in customer service and education.
      While I am mostly a *self-taught programmer*, I also hold a **B.A - Anthropology**, <br> adding a social-cultural lens to all my projects. 
      <br><br>I'm excited to leverage this diverse background to create innovative and meaningful solutions in the world of software development. <br> **Let's connect and build something amazing together!**"
-    imageUrl: "home/gaby2.jpg"
+    imageUrl: "home/profile2.png"
     imageWidth: 220
     imageHeight: 220
     buttons:
