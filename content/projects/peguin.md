@@ -43,20 +43,20 @@ This data was originally published in:<br>
 </ul>
 
 ## Website
-
+***
 Here's the model deployed on a simple flask website:
 
 ![Model in website](/projects/penguin/website.PNG)
 
 ## Data Visualizations
-<p align="center">
-  ![data](/projects/penguin/data.PNG)
-</p>
+***
+![data](/projects/penguin/data.PNG)
+
 
 ## Train and Model Selection
-<p align="center">
-  ![model selection](/projects/penguin/model.PNG)
-</p>
+***
+![model selection](/projects/penguin/model.PNG)
 
 ## Notes
+***
 View the <a href="https://github.com/gabrielaliera/Penguin-Predictor/blob/main/Penguin.ipynb">data preparation, data visualizatin, and model selection.</a> 
