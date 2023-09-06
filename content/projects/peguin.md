@@ -46,17 +46,16 @@ This data was originally published in:<br>
 
 Here's the model deployed on a simple flask website:
 
-<img src='projects/penguin/website.PNG' title='Video Demo' width='1200' heigth="1200" alt='Video Demo' />
-
+![Model in website](/projects/penguin/website.PNG)
 
 ## Data Visualizations
 <p align="center">
-  <img align="center" src="projects/penguin/data.PNG">
+  ![data](/projects/penguin/data.PNG)
 </p>
 
 ## Train and Model Selection
 <p align="center">
-  <img align="center" src="projects/penguin/model.PNG">
+  ![model selection](/projects/penguin/model.PNG)
 </p>
 
 ## Notes
