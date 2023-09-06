@@ -8,7 +8,7 @@ author: Gabriela Liera
 draft: false
 tags: ["Python", "Jupyter Notebooks","Pandas", "NumPy", "Seaborn"]
 showToc: false
-weight: 206
+weight: 207
 cover:
     image: "projects/belarus/cover.png"
     alt: "Data - Data analysis applying data cleaning, visualization, descriptive statistics & quantitative exploratory analysis"

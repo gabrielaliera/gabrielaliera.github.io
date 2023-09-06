@@ -1,7 +1,7 @@
 ---
 title: "Linux Workstation & Containerized Applications"
 #description: "Virtualizes Fedora server with Apache, Samba, & File Transfer Protocol containerized using Linux Containers (LXC)"
-dateString: "May 2021 ∙ "
+dateString: "Fall 2021 ∙ "
 ShowWordCount: true
 ShowReadingTime: true
 author: Gabriela Liera

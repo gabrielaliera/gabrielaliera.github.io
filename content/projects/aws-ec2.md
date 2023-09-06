@@ -1,7 +1,7 @@
 ---
 title: "AWS-EC2"
 #description: "Building Infrastructure for basic website"
-dateString: "May 2020 ∙ "
+dateString: "Fall 2021 ∙ "
 ShowWordCount: true
 ShowReadingTime: true
 author: Gabriela Liera
