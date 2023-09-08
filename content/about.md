@@ -9,11 +9,10 @@ weight: 301
 --- 
 
 # 🚀Innovator. Passionate Learner.✨ 
-I'm a ***Software Engineer*** driven by a passion for developing forward-thinking technology that positively impacts people's lives. Constantly pushing my boundaries, I have a strong desire for ***learning*** and ***growth***.
-
-Before diving into the world of code, I had some fun adventures traveling and working in education, sales, and hospitality, which give me a unique perspective and bring a well-rounded skill set to the table.
+Before diving into the world of code, I had some fun adventures traveling and working in education, sales, and hospitality. These experiences have nurtured my adaptability and collaborative spirit.
 
 **Effective communication**, strong **management abilities**, and **leadership** qualities set me apart, while fostering innovation and delivering exceptional user experiences is where I thrive.
+
 ## 💪 Skills
 ***
 ### Languages☕ 
